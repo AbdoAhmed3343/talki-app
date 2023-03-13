@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTalki</string>
+    <string name="facebook_app_id">248490904178528</string>
+    <string name="fb_login_protocol_scheme">fbbb1dfa48a2cb20945e6d301feaeaf3eb</string>
+</resources>
